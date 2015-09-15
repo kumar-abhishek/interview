@@ -47,7 +47,7 @@ Recommended: Steven Skiena – **The Algorithm Design Manual** [[Amazon][b_tadm_
 
 * Jon Bentley – **Programming Pearls** [[Amazon][b_pp_amzn]] [[web (full text)][b_pp_web]]
 * Cormen, Leiserson, Rivest, Stein – **Introduction to Algorithms** [[Amazon][b_clrs_amzn]] [[pdf][b_clrs_pdf]]
-* more – **Free Programming Books** (*giant* collection) [[Github][b_fbp]]
+* more – **Free Programming Books** (*giant* collection) [[GitHub][b_fbp]]
 * more – **IT eBooks** [[web][b_ite]]
 * more – **Free Programming Books** [[web][b_fpbcom]]
 
@@ -59,7 +59,7 @@ Please support the authors by buying the books.
 [b_fpbcom]: http://www.freeprogrammingbook.com/
 [b_ite]: http://it-ebooks.info/
 [b_pp_amzn]: http://www.amazon.com/dp/8177588583
-[b_pp_web]: http://www.cs.bell-labs.com/cm/cs/pearls/
+[b_pp_web]: http://www.wou.edu/~jcm/Spring-P-2015/Programming%20Pearls%20(2nd%20Ed)%20Bentley.pdf
 [b_tadm_amzn]: http://www.amazon.com/dp/1848000693
 [b_tadm_pdf]: https://www.google.com/search?q=skiena+algorithm+design+manual+pdf
 [b_tadm_web]: http://www.algorist.com/
@@ -206,6 +206,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * Gayle McDowell – **Cracking the Coding Interview** [[Youtube][v_cci]]
 * Gayle McDowell - **Cracking the Coding Interview (examples)** [[one][v_cci2]] [[two][v_cci3]]
 * Hangouts on Air: **Google Recruiters Share Interview Tips** [[technical][v_gt]] [[non-technical][v_gnt]]
+* Ladies Storm Hackathons: **Interview Prep Round 1: Strings, Arrays, Linked Lists** [[technical][v_lsh1]] 
 
 [v_cci]: http://youtu.be/rEJzOhC5ZtQ
 [v_cci2]: http://youtu.be/aClxtDcdpsQ
@@ -213,9 +214,12 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 [v_ccs]: http://youtu.be/oWbUtlUhwa8
 [v_gt]: http://youtu.be/qc1owf2-220
 [v_gnt]: http://youtu.be/DINxNbBOEoI
+[v_lsh1]: http://youtu.be/fIpliB-ton8
 
-## Similar Github repos
+## Similar GitHub repos
 
+* [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide) **(NEW)**
+* [SITZ/JobPuzzles](https://github.com/SITZ/JobPuzzles) **(NEW)**
 * [interview-resources](https://github.com/davidhampgonsalves/interview-resources)
 * [code-problems](https://github.com/blakeembrey/code-problems)
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis)
